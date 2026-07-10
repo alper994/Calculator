@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Alpi's Mathe")
+st.title("Meli's Mathelogik")
 
 first_digit = st.number_input("Erste Zahl")
 operator = st.selectbox("Operator", ["+", "-", "*", "/"])
